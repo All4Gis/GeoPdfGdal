@@ -9,17 +9,17 @@
 Go to http://download.gisinternals.com/release.php download and install Gdal. 
 
 ### Check the Gdal installation:
-
+``` 
 gdalinfo --version
-
+``` 
 
 ## Examples
 
 If you don't want to replace the path, you need to unzip the project into C:/geopdf/ 
 and check that your folder tree is:
-C:/geopdf/tmp/
-C:/geopdf/data/
-C:/geopdf/scripts/
+* C:/geopdf/tmp/
+* C:/geopdf/data/
+* C:/geopdf/scripts/
 etc..
 
 or change path in "variables.bat" script.
@@ -28,8 +28,8 @@ or change path in "variables.bat" script.
 You have all the script example here [Scripts](https://github.com/All4Gis/GeoPdfGdal/tree/master/scripts) and GeoPdf created [GeoPdf](https://drive.google.com/open?id=0B9VDXRxK5etKb1RaejZXcUFzZ2s)
 
 For use this examples you need [Download data](https://drive.google.com/open?id=0B9VDXRxK5etKQTAwMjc3bUxnVzg) and unzip it in data folder:
-C:/geopdf/data/raster/...
-C:/geopdf/data/shp/...
+* C:/geopdf/data/raster/...
+* C:/geopdf/data/shp/...
 
 ******************************************
 ### Example 1: Two Shapefiles 
