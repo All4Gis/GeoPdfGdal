@@ -6,7 +6,7 @@
 
 ### Windows
 
-Go to http://download.gisinternals.com/release.php download and install Gdal. 
+Go to https://gdal.org/download.html download and install Gdal. 
 
 ### Check the Gdal installation:
 ``` 
@@ -25,9 +25,9 @@ etc..
 or change path in "variables.bat" script.
 
 
-You have all the script example here [Scripts](https://github.com/All4Gis/GeoPdfGdal/tree/master/scripts) and GeoPdf created [GeoPdf](https://drive.google.com/open?id=0B9VDXRxK5etKb1RaejZXcUFzZ2s)
+You have all the script example here [Scripts](https://github.com/All4Gis/GeoPdfGdal/tree/master/scripts) and GeoPdf created [GeoPdf](https://drive.google.com/drive/folders/0B9VDXRxK5etKb1RaejZXcUFzZ2s?resourcekey=0--FevOZvshFSaSnSdAZknvg&usp=sharing)
 
-For use this examples you need [Download data](https://drive.google.com/open?id=0B9VDXRxK5etKQTAwMjc3bUxnVzg) and unzip it in data folder:
+For use this examples you need [Download data](https://drive.google.com/drive/folders/0B9VDXRxK5etKQTAwMjc3bUxnVzg?resourcekey=0-AztuRZbNEO-7AJswldSzRw&usp=sharing) and unzip it in data folder:
 * C:/geopdf/data/raster/...
 * C:/geopdf/data/shp/...
 
@@ -120,7 +120,7 @@ os.system(r'gdal_translate -of PDF -a_srs EPSG:4326 C:\geopdf\tmp\base.tif C:\ge
 http://www.spatialthoughts.com/blog/gis/geopdf-gdal/
 
 * More info:
-http://gdal.org/1.11/frmt_pdf.html
+https://gdal.org/drivers/vector/pdf.html#
 
 
 [© All4gis 2016]
