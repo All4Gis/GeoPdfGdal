@@ -25,9 +25,9 @@ etc..
 or change path in "variables.bat" script.
 
 
-You have all the script example here [Scripts](https://github.com/All4Gis/GeoPdfGdal/tree/master/scripts) and GeoPdf created [GeoPdf](https://drive.google.com/drive/folders/0B9VDXRxK5etKb1RaejZXcUFzZ2s?resourcekey=0--FevOZvshFSaSnSdAZknvg&usp=sharing)
+You have all the script example here [Scripts](https://github.com/All4Gis/GeoPdfGdal/tree/master/scripts) and GeoPdf created [GeoPdf and data](https://drive.google.com/file/d/1PJ4t9eKwdVN6EPjyGxu85zfTMWfiVn_W/view?usp=sharing)
 
-For use this examples you need [Download data](https://drive.google.com/drive/folders/0B9VDXRxK5etKQTAwMjc3bUxnVzg?resourcekey=0-AztuRZbNEO-7AJswldSzRw&usp=sharing) and unzip it in data folder:
+For use this examples you need download data and unzip it in data folder:
 * C:/geopdf/data/raster/...
 * C:/geopdf/data/shp/...
 
